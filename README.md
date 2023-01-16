@@ -11,7 +11,7 @@ Deploy the website and navigate through the website.
 
 ## Usage
 1. The website can be deployed with the following link:
-https://morning-plateau-89149.herokuapp.com
+https://warm-waters-46938.herokuapp.com/ 
 2. After deploying the website the user can navigate through the website. As shown below:
 ![Screenshot of first half of the website](./public/assets/images/Screen%20Shot%202023-01-16%20at%201.54.09%20PM.png)
 
